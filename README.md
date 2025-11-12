@@ -100,7 +100,7 @@ Information on how to get started can be found in our
 [contributor guide](CONTRIBUTING.md).
 
 [flutter.dev]: https://flutter.dev
-[Discord instructions]: ./docs/contributing/Chat.md
+[Discord instructions]: ./docs/contribute/Chat.md
 [Discord badge]: https://img.shields.io/discord/608014603317936148?logo=discord
 [Twitter handle]: https://img.shields.io/twitter/follow/flutterdev.svg?style=social&label=Follow
 [Twitter badge]: https://twitter.com/intent/follow?screen_name=flutterdev
